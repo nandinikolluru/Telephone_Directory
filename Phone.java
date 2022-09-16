@@ -166,15 +166,13 @@ class BinaryTree {
                 flag = 1;
                 System.out.println("\n\t-----RECORD FOUND-----");
 
-             //   System.out.println("\n\t-------");
-
               
                 System.out.println("-----------------------------------------------");
                 System.out.println("NAME\t|  CONTACT NUMBER  |\tEMAIL");
                 System.out.println("-----------------------------------------------");
                 System.out.println("" + ptr.name + "\t    " + ptr.number + "\t      " + ptr.email);
 
-                //System.out.println("\t----------------------------------------------------------------------------------------");
+     
 
                 break;
             }
